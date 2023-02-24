@@ -1,0 +1,204 @@
+.right{
+    float:right
+}
+.left{
+    float: left;
+}
+.left1{
+    
+    position: relative;
+    top: 110px;
+    left: 0px;
+}
+.danhmuc{
+    float: left;
+    margin-left: 80px;
+    size: 37.5px;
+}
+.column{
+width:25%;
+float:left;}
+
+ .san-pham{
+border-radius:10 pixel;
+ padding:10 pixel;
+ margin:5 pixel;
+ text-align: center;
+ }
+
+ .san-pham .ten{
+    font-size:larger;
+    font-variant: color blue;}
+
+.san-pham img{max-width:95%}
+ 
+.san-pham .gia{color: red;
+    font-weight: bold;
+     font-size:larger;}
+ 
+ .san-pham .gia del{ color:gray}
+ .thuongmai{
+    color: rgb(160, 129, 118);
+    font-family: 'Times New Roman', Times, serif ;
+    font-weight: bold;
+    font-size: larger;
+ }
+ .chuthich{
+    font-size: 15px;
+ }
+ .xemthem{
+    width: 32%;
+    float: left;
+    margin-left: 10px;
+ }
+ h2{
+    text-align: center;
+ }
+ .san-pham:hover{
+    margin-top: -5px;
+ }
+ .zoom{
+    height: 140px;
+    overflow: hidden;
+
+}
+.zoom>img{
+    object-fit: cover;
+    transition: 0.8s ;
+    height: 100%;
+}
+.zoom:hover> img{
+    -ms-transform: scale(1.5);
+    -webkit-transform: scale(1.5);
+    transform: scale(1.5);
+}
+.muctrangcon{
+    position: relative;
+    top: 3px;
+    left: 30px;
+    font-size: 13px;
+
+}
+.muctrangcon1{
+    position: relative;
+    top: 1px;
+    right:30px ;
+    font-size: 15px;
+    float: left;
+}
+.box1{
+    position: absolute;
+    width: 100%;
+    height: 400px;
+    background-color: blue;
+    float: left;
+}
+.box{
+    width: 100%;
+}
+.muctrangcon2{
+    margin-left: 80px;
+    margin-right: 80px;
+    margin-top: 80px;
+    float: left;
+}
+.muctrangcon3{
+    margin-left: 80px;
+    margin-right: 80px;
+   
+    float: left;
+}
+.form-button{
+    padding:8px 30px;
+     outline:none;
+     border:none;
+     border-radius:20px;
+     font-weight:bold;
+     background-color:white;
+     color:orangered;
+     box-shadow:inset 0 0 20px blue;} 
+     .f{
+        position: absolute;
+        top: 380px;
+        left: 20px;
+        width: 115px;
+        height: 30px;
+        border: 1px solid rgba(192, 192, 192, 0.674);
+        border-radius: 4px;
+    }
+    .f i {
+        position: absolute;
+        top: 7px;
+        left: 5px;
+        color: #007bff;
+    }
+    .f p{
+        position: absolute;
+        top: -8px;
+        left: 28px;
+        color: #007bff;
+        font-size: 14px;
+    }
+    .g{
+        position: absolute;
+        top: 380px;
+        left: 160px;
+        width: 115px;
+        height: 30px;
+        border: 1px solid rgba(192, 192, 192, 0.674);
+        border-radius: 4px;
+    }
+    .g i {
+        position: absolute;
+        top: 7px;
+        left: 10px;
+        color:rgba(255, 0, 0, 0.769);
+    }
+    .g p{
+        position: absolute;
+        top: -8px;
+        left: 40px;
+        color:rgba(255, 0, 0, 0.769);
+        font-size: 14px;
+    }
+    .t{
+        position: absolute;
+        top: 380px;
+        left: 300px;
+        width: 115px;
+        height: 30px;
+        border: 1px solid rgba(192, 192, 192, 0.674);
+        border-radius: 4px;
+    }
+    .t i {
+        position: absolute;
+        top: 7px;
+        left: 10px;
+        color:#007bff;
+    }
+    .t p{
+        position: absolute;
+        top: -8px;
+        left: 40px;
+        color:#007bff;
+        font-size: 14px;
+    }
+    .t:hover{
+        background-color: rgba(192, 192, 192, 0.434);
+    }
+    .g:hover{
+        background-color: rgba(192, 192, 192, 0.434);
+    }
+    .f:hover{
+        background-color: rgba(192, 192, 192, 0.434);
+    }
+.logo{
+    position: relative;
+    top: -365px;
+    left: -512px ;
+}   
+.linkf{
+    position: relative;
+    top: 100px;
+    left: 10px;
+}
