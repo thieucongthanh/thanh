@@ -1,1 +1,185 @@
 # thanh
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="/ass1/khung.css">
+</head>
+<body>
+    <div>
+    
+    <p class="left1" style="margin-top: 60px; "><b>Facebook:</b><a href="https://www.facebook.com/profile.php?id=100028067830329">Thiều Công Thành</a></p>
+    <div><p class="left" style="margin-top: 60px;">HOTLINE: <b>0778950317</b></p><br></div>
+    <input type="text" placeholder="giày nam, giày tây" class="right" style="margin-top: 60px;">
+    <p class="right" style="margin-top: 62px; margin-right: 5px;">CỬA HÀNG</p>
+    <P class="right" style="margin-top: 62px; margin-right: 5px;">GIỎ HÀNG</P>
+    <div class="zoom"><center><img src="/ass1/Screenshot_20230131_103737.png" alt=" " width="200" style="margin-left: 150px;"  ></center></div>
+    <div >
+        <p class="danhmuc">TRANG CHỦ</p>
+        <p class="danhmuc">GIÀY TÂY</p>
+        <p class="danhmuc">PHỤ KIỆN</p>
+        <p class="danhmuc">CLOLLECTION</p>
+        <p class="danhmuc">CỬA HÀNG</p>
+        <a href="/ass1/ass3.html"> <p class="danhmuc">GIỚI THIỆU</p></a>
+
+        <p class="danhmuc">BLOG</p>
+    </div>
+    <img src="/assigment1/ảnh/slider_1.webp" alt="" width="1205px" >
+    <h2 style="margin-top: 50px;"><center>NEW ARRIVALS</center> </h2>
+    <div class="column">
+        <div class="san-pham">
+        <div class="zoom"><img src="/assigment1/ảnh/Screenshot_20230131_113231.png" width="230"/></div>
+        <div class="ten">OMW LOAFER</div>
+        <div class="gia">
+        <del> 1.650.000 đ </del>  1.402.500 đ
+        </div>
+        </div>
+        </div>
+        <a href="/ass1/asss2.html"><div class="column">
+            <div class="san-pham">
+             
+            <div class="zoom"><img src="/assigment1/ảnh/Screenshot_20230131_113231.png" width="230"/></div>
+            <div class="ten">JAMES OXFORD-0F31</div>
+            <div class="gia">
+            <del> 1.750.000 đ </del> 1.487.500 đ
+            
+            </div>
+            </div>
+            </div></a>  
+        
+            <div class="column">
+                <div class="san-pham">
+                <div class="zoom"><img src="/assigment1/ảnh/Screenshot_20230131_113231.png" width="230"/></div> 
+                <div class="ten">THE COUNTRYMAN DERBY</div>
+                <div class="gia">
+                <del> 1.850.000 đ </del>  1.572.500 đ
+                </div>
+                </div>
+                </div>
+                <div class="column">
+                    <div class="san-pham">
+                    <div class="zoom"><img src="/assigment1/ảnh/Screenshot_20230131_113253.png" width="265"/></div>
+                    <div class="ten">CLASSIC CHISEL TOE OXFOR</div>
+                    <div class="gia">
+                    <del> 1.750.000 đ </del>  1.487.500 đ
+                    </div>
+                    </div>
+                    </div> 
+ 
+                    
+    <hr>
+                   
+    
+    <div class="column">
+        <div class="san-pham">
+        <img src="/assigment1/ảnh/Screenshot_20230131_073248.png" width="270" />
+        <div class="thuongmai">SẢN XUẤT TẠI VIỆT NAM</div>
+        <div class="chuthich">Be Classy là một trong những thương hiệu giày da có xưởng sản xuất và gia công tại Việt Nam. Nguồn nguyên liệu nhập khẩu từ nước ngoài. Từ những nghệ nhân đóng giày dày dạn kinh nghiệm nhất. </div>
+        </div>
+        </div>
+        </div>
+        <div class="column">
+            <div class="san-pham">
+            <img src="/assigment1/ảnh/Screenshot_20230201_102942.png" width="270" />
+            <div class="thuongmai">VẬT TƯ NHẬP KHẨU</div>
+            <div class="chuthich">Hoàn toàn được làm từ nguyên liệu ngoại nhập, nên giày da Be Classy không vượt khỏi khuôn khổ của một đôi giày Tây về cả kiểu dáng, chất liệu và màu sắc. 
+            </div>
+
+            </div>
+            </div>
+            </div>
+            <div class="column">    
+                <div class="san-pham">
+                <img src="/assigment1/ảnh/Screenshot_20230201_103733.png" width="270" />
+                <div class="thuongmai"> GIÀY CHO QUÝ ÔNG VIỆT</div>
+                <div class="chuthich">Với châm ngôn “Giày Tây dành cho Ta” - Be Classy thiết kế Phom (Last) giày phù hợp với phom chân chuẩn của Quý Ông Việt. Tạo nên những đôi giày da mang nét Việt riêng, dành riêng cho người Việt.</div> 
+
+
+                </div>
+                </div>
+                </div> 
+                <div class="column" style="float: right;;">    
+                    <div class="san-pham">
+                    <img src="/assigment1/ảnh/Screenshot_20230201_104126.png" width="270" />
+                    <div class="thuongmai">BẢO HÀNH 3 NĂM</div>
+                    <div class="chuthich">Be Classy áp dụng chính sách bảo hành giày 3 năm - bảo dưỡng 3 lần/miễn phí dành cho khách hàng. Luôn có đội ngũ hỗ trợ và tư vấn tất cả các vấn đề về giày da trong quá trình khách hàng sử dụng. 
+                    </div>
+
+                    </div>
+                    </div>
+                    </div> 
+    
+    
+    <h2 style="margin-right: 1200px;" class="left" > SẢN PHẨM KHÁC</h2 >
+    <div class="xemthem" >    
+        <div class="san-pham">
+        <img src="/assigment1/ảnh/Screenshot_20230201_110251.png"  height="400"  />
+       
+        </div>
+        </div> 
+        <div class="xemthem" >    
+            <div class="san-pham">
+            <img src="/assigment1/ảnh/Screenshot_20230201_111843.png"  height="400"  />
+           
+            </div>
+            </div> 
+            <div class="san-pham">
+                <div class="xemthem" >    
+                
+                <img src="/assigment1/ảnh/Screenshot_20230201_112041.png"  height="400"  />
+               
+                </div>
+                </div></div>
+            
+                <hr> 
+                <hr>
+      <div> <h1  ><center>BELT - WALLET</center></h1>  </div>     
+
+               <div> <h1  ><center>Thương hiệu uy tính hàng đầu</center></h1>  </div>
+    <div class="column">
+        <div class="san-pham">
+    <div class="zoom"><img src="/assigment1/ảnh/Screenshot_20230201_115159.png" /></div>
+        <div class="ten">CLASSIC BELT - BE01</div>
+        <div class="gia">
+        <del> 650.500 đ </del>  552.500 đ
+        </div>
+        </div>
+        </div>   
+        <div class="column">
+            <div class="san-pham">
+            <div class="zoom"><img src="/assigment1/ảnh/Screenshot_20230201_115215.png" /></div>
+            <div class="ten">CLASSIC BELT - BE25</div>
+            <div class="gia">
+            <del> 700.000 đ </del>  552.500 đ
+            </div>
+            </div>
+            </div>   
+            <div class="column">
+                <div class="san-pham">
+                <div class="zoom"><img src="/assigment1/ảnh/Screenshot_20230201_115231.png" /></div>
+                <div class="ten">LIZ BIFOLD WALLET - VN14</div>
+                <div class="gia">
+                <del> 1.150.000 đ </del>  977.500 đ
+                </div>
+                </div>
+                </div>          
+                <div class="column">
+                    <div class="san-pham">
+                    <div class="zoom"><img src="/assigment1/ảnh/Screenshot_20230201_115302.png" width="240" height="100"/></div>
+                    <div class="ten">LIZ CARD HOLDER - VN12</div>
+                    <div class="gia">
+                    <del> 550.500 đ </del>  476.750 đ
+                    </div>
+                    </div>
+                    </div> 
+                    <hr> 
+                   <b><h4 style="margin-left: 200px ;">  Thông Tin Liên Hệ<b style= margin-left:500px;>Địa Chỉ Chi Nhánh Khu Vực HCM  </b></h4> 
+                    <h5 class="left" align="right" style="margin-left: 200px; margin-top: 0px;"> <center>Tư Vấn Khách Hàng:0836445692<br>    Chăm Sóc Khách Hàng:09114869<br>Zalo Tư Vấn Nhanh:01234567890</center> </h5>
+                    <h5><b style= margin-left:440px;>Chi Nhánh quận 1:207 Nguyễn Cư Trinh,Quận 1, TPHCM</b> <br> <b Style= margin-left:440px;>Chi Nhánh Quận 10: 101 Đường 3/2, Quận 10,TPHCM</b> <br> <b style= margin-left:440px;>Gò Vấp: 28 Quang Trung, Gò Vấp</b></h5>                            </center>  
+                </div>
+                                   
+    </body>
+</html>
